@@ -1,0 +1,5 @@
+npx: pour faire l'appelle du bibliothèque sans l'installer
+npm install dotenv =>pour créer un variable d'environnement
+ODM => in case we manipulate nosql databases (mongoose)
+ORM => in case we manipulate sql databases
+Generate random secret => require('crypto').randomBytes(64).toString('hex') by using crypt library inside the node js

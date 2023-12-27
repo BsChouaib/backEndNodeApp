@@ -1,0 +1,8 @@
+server  => express
+ODM     => mongoose
+nodemon => to  refresh our server automatically and we don't need to restarted manually
+validation library => joi(npm install @hapi/joi)
+hashing password => bcreptjs (npm install bcryptjs)
+genrate tokens => jsonwebtoken (npm install jsonwebtoken )
+manipulate photos => npm install express multer( middle ware pour gérer les fichiers ) 
+enable diffrent domain to  access resources => npm install cors
